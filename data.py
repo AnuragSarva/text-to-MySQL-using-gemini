@@ -1,0 +1,5 @@
+USER = "root"
+PASSWWORD = ""
+HOST = "localhost"
+GEMINI_API_KEY = ""
+DATABASE =""
